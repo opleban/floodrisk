@@ -1,0 +1,4 @@
+api_key:
+base_url: https://api.firststreet.org
+output_file: output.csv
+input_file: inputs.csv
